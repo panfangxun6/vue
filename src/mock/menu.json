@@ -1,0 +1,16 @@
+{
+  "menu": [
+    {
+      "submenu": "货物管理系统",
+      "menuGroup": [
+        {
+          "label": "货物管理系统",
+          "to":"/admin"
+        },{
+          "label": "示例",
+          "to": "/example"
+        }
+      ]
+    }
+  ]
+}
